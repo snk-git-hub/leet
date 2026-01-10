@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/snk-git-hub/leet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/snk-git-hub/leet/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
