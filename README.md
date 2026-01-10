@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/snk-git-hub/leet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Array
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
