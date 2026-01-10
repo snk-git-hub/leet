@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
