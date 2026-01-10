@@ -20,20 +20,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/snk-git-hub/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Array
 |  |
