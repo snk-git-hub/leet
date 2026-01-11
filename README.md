@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/snk-git-hub/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snk-git-hub/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Tree
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/snk-git-hub/leet/tree/master/0066-plus-one) |
+| [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snk-git-hub/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/snk-git-hub/leet/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
