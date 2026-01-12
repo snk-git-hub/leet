@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/snk-git-hub/leet/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snk-git-hub/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/snk-git-hub/leet/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/snk-git-hub/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/snk-git-hub/leet/tree/master/1975-maximum-matrix-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/snk-git-hub/leet/tree/master/0066-plus-one) |
+| [1266-minimum-time-visiting-all-points](https://github.com/snk-git-hub/leet/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/snk-git-hub/leet/tree/master/1390-four-divisors) |
 ## Stack
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/snk-git-hub/leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/snk-git-hub/leet/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/snk-git-hub/leet/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
