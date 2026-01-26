@@ -1,21 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> minimumAbsDifference(vector<int>& A) {
-        sort(A.begin(), A.end());
-        int minDiff = INT_MAX;
-        vector<vector<int>> res;
+    vector<vector<int>> minimumAbsDifference(vector<int>& arr) {
+        sort(arr.begin(), arr.end());
+        int n = arr.size();
+        int mini = INT_MAX;
+        vector<vector<int>> v;
 
-        for (int i = 1; i < A.size(); i++) {
-            int diff = A[i] - A[i - 1];
-            if (diff < minDiff) {
-                minDiff = diff;
-                res = {};
-                res.push_back({A[i - 1], A[i]});
-            } else if (diff == minDiff)
-                res.push_back({A[i - 1], A[i]});
+        for (int i = 0; i < n - 1; i++) {
+            mini = min(mini, abs(arr[i + 1] - arr[i]));
         }
 
-        return res;
+        for (int i = 0; i < n - 1; i++) {
+            if ((arr[i + 1] - arr[i]) == mini) {
+                v.push_back({arr[i], arr[i + 1]});
+            }
+        }
+
+        return v;
     }
 };
-auto init = atexit( [](){ ofstream("display_runtime.txt") <<'0'; });
