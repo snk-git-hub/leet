@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/snk-git-hub/leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/snk-git-hub/leet/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/snk-git-hub/leet/tree/master/0496-next-greater-element-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snk-git-hub/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/snk-git-hub/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/snk-git-hub/leet/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/snk-git-hub/leet/tree/master/1266-minimum-time-visiting-all-points) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snk-git-hub/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3453-separate-squares-i](https://github.com/snk-git-hub/leet/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/snk-git-hub/leet/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
